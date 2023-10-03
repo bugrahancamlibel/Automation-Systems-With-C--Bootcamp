@@ -1,0 +1,14 @@
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\bin\Debug\net6.0\staff-enter-exit-automation.exe
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\bin\Debug\net6.0\staff-enter-exit-automation.deps.json
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\bin\Debug\net6.0\staff-enter-exit-automation.runtimeconfig.json
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\bin\Debug\net6.0\staff-enter-exit-automation.dll
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\bin\Debug\net6.0\staff-enter-exit-automation.pdb
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\staff-enter-exit-automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\staff-enter-exit-automation.AssemblyInfoInputs.cache
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\staff-enter-exit-automation.AssemblyInfo.cs
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\staff-enter-exit-automation.csproj.CoreCompileInputs.cache
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\staff-enter-exit-automation.dll
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\refint\staff-enter-exit-automation.dll
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\staff-enter-exit-automation.pdb
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\staff-enter-exit-automation.genruntimeconfig.cache
+C:\Users\camli\Desktop\Automation Systems With C# Bootcamp\staff-enter-exit-automation\staff-enter-exit-automation\obj\Debug\net6.0\ref\staff-enter-exit-automation.dll
